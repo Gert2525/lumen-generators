@@ -1,6 +1,7 @@
 {
     "name": "gert2525/lumen-generators",
   "type": "library",
+  "version": "1.3.5",
     "description": "A collection of generators for Lumen and Laravel 5.",
 	"keywords": ["lumen", "laravel", "rest", "api", "generators"],
     "license": "MIT",
@@ -18,7 +19,7 @@
     },
     "autoload": {
     	"psr-4": {
-    		"Wn\\Generators\\": "src/"
+    		"Gert2525\\Generators\\": "src/"
     	}
     }
 }
